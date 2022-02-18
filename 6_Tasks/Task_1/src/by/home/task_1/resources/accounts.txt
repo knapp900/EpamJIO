@@ -1,0 +1,2 @@
+login=Admin password=8a23dd421a939204e515adcc00347326079a580c7c58f86cb9ef5b5 email=admin@mail.com role=ADMIN
+login=User password=db7064a72a60becf79a19196126d761ce7c12c661deafc202ebf62bb email=user@mail.com role=USER
