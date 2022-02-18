@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Task_1/src"/>
+	<classpathentry kind="src" path="Task_2/src"/>
+	<classpathentry kind="src" path="Task_3/src"/>
+	<classpathentry kind="lib" path="Task_3/bin/resourse/jdom.jar"/>
+	<classpathentry kind="output" path="Task_1/bin"/>
+</classpath>

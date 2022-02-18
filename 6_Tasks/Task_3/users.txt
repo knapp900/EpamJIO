@@ -1,3 +1,0 @@
-User [id=ed241502-85ef-4ffe-8e9d-35a52a635303 login=User password=User role=USER]
-User [id=abc92465-ae42-4f1c-88b7-d293928f80c2 login=admin password=admin role=ADMIN]
-User [id=663040e7-191f-49ba-bd6c-66300dd66edc login=admin password=admin role=USER]
