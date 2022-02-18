@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student ID="2abd3f9a-68a5-4ced-8e3d-56a6b53c92e9">
+		<first_name>Maks</first_name>
+		<last_name>Pain</last_name>
+		<age>33</age>
+		<faculty>Bio</faculty>
+		<course>2</course>
+	</student>
+	<student ID="a5f19b9b-ba64-420d-99a6-82ac3a4a25ee">
+		<first_name>Jhon</first_name>
+		<last_name>Smith</last_name>
+		<age>20</age>
+		<faculty>Biology</faculty>
+		<course>1</course>
+	</student>
+	<student ID="86b00305-4e34-48c6-9610-0abfe8df774b">
+		<first_name>Mary</first_name>
+		<last_name>Simens</last_name>
+		<age>21</age>
+		<faculty>Information System</faculty>
+		<course>2</course>
+	</student>
+	<student ID="de262172-e086-463e-ac9d-c640ac261fb9">
+		<first_name>Mark</first_name>
+		<last_name>Meals</last_name>
+		<age>21</age>
+		<faculty>History</faculty>
+		<course>2</course>
+	</student>
+	<student ID="98099755-092d-46f4-abb6-75f65135fcb1">
+		<first_name>Shara</first_name>
+		<last_name>Jhonson</last_name>
+		<age>21</age>
+		<faculty>Biology</faculty>
+		<course>2</course>
+	</student>
+	<student ID="0b162f85-7ec9-4495-9399-297ceb8227e4">
+		<first_name>Benjamin</first_name>
+		<last_name>Snider</last_name>
+		<age>21</age>
+		<faculty>Information System</faculty>
+		<course>2</course>
+	</student>
+	<student ID="224b61d3-62fa-4f80-bd11-267bb1de47ab">
+		<first_name>Endrew</first_name>
+		<last_name>Sirys</last_name>
+		<age>21</age>
+		<faculty>Biology</faculty>
+		<course>2</course>
+	</student>
+	<student ID="ef00e458-71e6-43f8-b41e-23309351f492">
+		<first_name>Boris</first_name>
+		<last_name>Jhons</last_name>
+		<age>39</age>
+		<faculty>Ahch</faculty>
+		<course>1</course>
+	</student>
+	<student ID="232f5f53-0267-4097-a0a7-d75e1326cbb4">
+		<first_name>Sarah</first_name>
+		<last_name>Connor</last_name>
+		<age>56</age>
+		<faculty>terminator</faculty>
+		<course>3</course>
+	</student>
+	<student ID="7686b266-1858-4206-b0c9-129f79ac6990">
+		<first_name>Sam</first_name>
+		<last_name>Winchester</last_name>
+		<age>33</age>
+		<faculty>Supernatural</faculty>
+		<course>1</course>
+	</student>
+</students>
