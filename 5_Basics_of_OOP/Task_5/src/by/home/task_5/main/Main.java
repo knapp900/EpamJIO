@@ -31,19 +31,6 @@ import by.home.task_5.CLI.CLI;
 public class Main {
 	public static void main(String[] args) throws IOException {
 
-//		String request = "Candy M&M price 10\n" + "Candy Tik-tac price 13\n" + "Candy Choco price 14\n"
-//				+ "Packing cardboard false plasticBag true";
-//
-//		GiftController controller = new ControllerGiftImpl();
-//
-//		boolean responce = controller.giftAddController(request);
-//
-//		if (responce) {
-//			System.out.println("Подарок успешно создан!");
-//		} else {
-//			System.out.println("Что-то пошло не так!");
-//
-//		}
 
 		CLI cli = new CLI();
 		cli.start();

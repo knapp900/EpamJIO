@@ -36,6 +36,7 @@ public class DAONoteImpl implements NoteDAO {
 		return false;
 	}
 
+	@SuppressWarnings("unchecked")
 	@Override
 	public List<Note> readFile() throws DAOException {
 
